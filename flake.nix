@@ -47,6 +47,7 @@
           pkgs.armadillo
           pkgs.eigen
           pkgs.boost
+          pkgs.python-language-server
           # pkgs.libtorch-bin
         ];
       };
